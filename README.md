@@ -1,6 +1,8 @@
 wso2-oauth-demo
 ===============
 
+An updated Playground example of OAuth 2.0 protected servlet from WSO2 documentation.
+
 Usage
 -----
 * run WSO2 Identity Management Server 4.1.0
